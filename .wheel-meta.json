@@ -1,0 +1,22 @@
+{
+  "wheel_id": 822,
+  "structure": "umbrella",
+  "slug": "roofcontractortampa-115",
+  "project": "roof-repair-tampa-maintenance-429b3f717f14a04250a3ed11475635aa9",
+  "parent_t1_ref": "roofcontractortampa-157",
+  "node_role": "feeder",
+  "money_target": "roofcontractortampa.net",
+  "primary_kw": "roof repair tampa maintenance",
+  "intended_url": "https://sites-e470-2.web.app/roof-repair-tampa-maintenance-429b3f717f14a04250a3ed11475635aa9/",
+  "tier": "T2",
+  "writeback_nonce": "7e1915969fa3739d",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/roof-repair-tampa-materials-compared-9717ce3d0dfb86a0d6767b41e0/",
+      "anchor": "Roof Repair Tampa Materials Compared: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
